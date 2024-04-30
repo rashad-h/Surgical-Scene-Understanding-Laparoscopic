@@ -1,14 +1,16 @@
 This repository is for a U-Net based segmentaion model for surgical instruments and anatomies for laparoscopic hysterectomy procedures. 
 The dataset used is AutoLaparo:
 
-@InProceedings{wang2022autolaparo,
-    title = {AutoLaparo: A New Dataset of Integrated Multi-tasks for Image-guided Surgical Automation in Laparoscopic Hysterectomy},
-    author = {Wang, Ziyi and Lu, Bo and Long, Yonghao and Zhong, Fangxun and Cheung, Tak-Hong and Dou, Qi and Liu, Yunhui},
-    booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention},
-    pages = {486--496},
-    year = {2022},
-    organization = {Springer}
-}
+`
+    @InProceedings{wang2022autolaparo,
+        title = {AutoLaparo: A New Dataset of Integrated Multi-tasks for Image-guided Surgical Automation in Laparoscopic Hysterectomy},
+        author = {Wang, Ziyi and Lu, Bo and Long, Yonghao and Zhong, Fangxun and Cheung, Tak-Hong and Dou, Qi and Liu, Yunhui},
+        booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention},
+        pages = {486--496},
+        year = {2022},
+        organization = {Springer}
+    }
+`
 
 For this project, we employed the architecture as the foundation for our segmentation model inspired by the U-Net architecture [16]. We leveraged the Keras framework and its prebuilt functionalities for the design and construction process. The implementation of the model involved the integration of convolutional layers, ReLU activation functions, dropout layers and max pooling operations. 
  ![image](https://github.com/rashad-h/Surgical-Scene-Understanding-Laparoscopic/assets/61196340/12e9a707-314b-4a4b-a2fd-e0a18306496d)
