@@ -12,6 +12,9 @@ The dataset used is AutoLaparo:
     }
 `
 
+
+Video Demo: https://www.youtube.com/watch?v=PnGtaq9bOVY
+
 For this project, we employed the architecture as the foundation for our segmentation model inspired by the U-Net architecture [16]. We leveraged the Keras framework and its prebuilt functionalities for the design and construction process. The implementation of the model involved the integration of convolutional layers, ReLU activation functions, dropout layers and max pooling operations. 
  ![image](https://github.com/rashad-h/Surgical-Scene-Understanding-Laparoscopic/assets/61196340/12e9a707-314b-4a4b-a2fd-e0a18306496d)
 
