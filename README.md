@@ -18,6 +18,10 @@ The dataset used is **AutoLaparo**:
 }
 ```
 
+### Final Report
+Available: [Here](https://rashad-h.github.io/Surgical-Scene-Understanding-Laparoscopic/report.pdf)
+
+
 ### Video Demo
 Watch the model in action: [YouTube Video](https://www.youtube.com/watch?v=PnGtaq9bOVY)
 
